@@ -1,0 +1,97 @@
+SEMICONDUCTORS
+
+Bear, Stearns & Co. Inc. ­ U.S. Equity Research December 19, 2007 Rating Information
+Sector Rating Target Price YE '08 Long-Term Growth Market Weight -10.0%
+
+Altera
+
+(ALTR-$19.14-Peer Perform) Improved Customer Bookings in December Not Indicative of Better End Demand
+· Our channel checks indicate that customer bookings have improved in the first few weeks of December, following a soft November and a strong October. While we expect customer bookings to normally slow as we head into late December, 4Q07 book-to-bill ratio will likely come in around parity and slightly better than our earlier expectation. Our checks indicate that revenues from wireless and telecom infrastructure customers have improved further over the last two weeks, after the mid-quarter update, due to increased yearend spending at wireless and telecom service providers. This, combined with steady networking orders from Cisco throughout the quarter, should contribute to communications revenues being up low single digit QoQ in 4Q07. Based on the current revenue rate, we expect 4Q07 revenues to be between $312-$315M (flat to -1% QoQ), or the upper end of the company's conservative guidance range of revenues flat to -4% QoQ. Additionally, given that the revenue upside is in high-end Stratix FPGAs and coming from higher margin infrastructure customers, we expect a modest increase in 4Q07 gross margin, as compared to the company's guidance of flat QoQ. For 4Q07, we are increasing our revenues from $309.5M (-2% QoQ) to $314.0M (-0.6% QoQ), gross margin from 63.5% to 64.0% and EPS by $0.01 to $0.17. While we are increasing our 4Q07 estimates, the revenue increase is primarily due to year-end budget spending (some inventory build) at end customers and is not driven by better end demand. With limited visibility and backlog coverage, we remain on the cautious side and continue to forecast a below seasonal revenue growth for ALTR in 1Q08. Our 2008 revenues and EPS estimates are unchanged at $1.34B and $1.00, respectively. ALTR is trading at 21x forward earnings (19x our 2008 EPS) and within our expected valuation range of 18-25x forward earnings. Given the weak PLD industry fundamentals and no real demand catalysts, we continue to stay on the sidelines on ALTR.
+
+Trading Data
+52-Wk Range Market Cap. Shares Out. Dividend Yield Avg Daily Vol. Float
+Source: FactSet; * BSC Estimates
+
+$18.00 - $26.24 $6,449 MM 352.9 MM* 0.8% 6,590,000 NA
+
+Fundamental Data
+EV/EBITDA Enterprise Value LT Debt to Total Cap. Book Value
+Source: FactSet; * BSC Estimates
+
+·
+14.6x $5,747.2 MM 0.0% $3.67*
+
+·
+
+·
+Price Performance Chart
+Altera Corp.
+
+24 22 20
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+·
+
+18
+
+Source: FactSet
+
+Sector View: Market Weight
+GAAP Estimates Post Option Expense (All values are in USD)
+Q1 Mar 2006 2007 Previous 2008 0.16 0.21 0.21 0.22E Q2 Jun 0.21 0.22 0.22 0.26E Q3 Sep 0.24 0.20 0.20 0.26E Q4 Dec 0.27 0.17E 0.16E 0.26E Year 0.88 0.80E 0.79E 1.00E P/E 21.8x 23.9x 19.1x
+
+Securities in this report priced as of: December 18, 2007 16:00 ET
+
+Equity Research Analyst(s) Gurinder Kalra Danny Kuo
+415-772-3217 gkalra@bear.com 415-772-3215 dkuo@bear.com
+
+ All numbers are after stock-based compensation expense, normalized consistent with BSC option expense policy.
+
+Bear Stearns does and seeks to do business with companies covered in its research reports. As a result investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Customers of Bear Stearns in the United States can receive independent, third-party research on the company or companies covered in this report, at no cost to them, where such research is available. Customers can access this independent research at www.bearstearns.com/independentresearch or can call (800) 517-2327 to request a copy of this research. Investors should consider this report as only a single factor in making their investment decision. PLEASE REFER TO PAGE 3 OF THIS REPORT FOR IMPORTANT DISCLOSURES AND ANALYST CERTIFICATION
+BEAR, STEARNS & CO. INC. 383 MADISON AVENUE NEW YORK, NY 10179 (212) 272-2000 WWW.BEARSTEARNS.COM
+
+Altera Income Statement
+($ in millions, except per share data) Fiscal Year End: December Total Revenue % Change Y/Y % Change Q/Q Cost of Sales Gross Profit Gross Margin % SG&A % Total Revenue R&D % Total Revenue Restructuring Charges Operating Income % Total Revenue Other Income Pretax Income % Total Revenue Income Taxes Tax Rate Net Income % Total Revenue No. of Common Shares 1Q06 292.8 10.6% 3.9% 97.1 195.7 66.8% 76.2 26.0% 62.9 21.5% 2Q06 334.1 17.0% 14.1% 113.3 220.8 66.1% 76.7 23.0% 63.9 19.1% 3Q06 341.2 17.0% 2.1% 110.5 230.7 67.6% 80.8 23.7% 63.6 18.6% 4Q06* 317.4 12.6% -7.0% 107.0 210.4 66.3% 74.0 23.3% 58.4 18.4% 2006 1285.5 14.4% 1Q07 304.9 4.1% -3.9% 104.5 200.4 65.7% 71.8 23.5% 58.5 19.2% 0.0 70.2 23.0% 17.1 87.3 28.6% 12.2 14.0% 75.1 24.6% 363.6 2Q07 319.7 -4.3% 4.8% 113.1 206.6 64.6% 67.9 21.2% 63.1 19.7% 0.0 75.7 23.7% 18.0 93.6 29.3% 13.1 14.0% 80.5 25.2% 359.5 3Q07 315.8 -7.4% -1.2% 114.4 201.4 63.8% 66.1 20.9% 71.4 22.6% 0.0 64.0 20.3% 16.2 80.2 25.4% 11.2 14.0% 69.0 21.8% 352.6 4Q07E 314.0 -1.1% -0.6% 113.0 201.0 64.0% 67.2 21.4% 72.8 23.2% 5.0 55.9 17.8% 11.0 66.9 21.3% 9.4 14.0% 57.5 18.3% 335.0 2007E 1Q08E 1254.4 322.0 -2.4% 5.6% 2.5% 445.0 809.4 64.5% 272.9 21.8% 265.7 21.2% 5.0 270.7 21.6% 62.3 328.0 26.2% 45.9 14.0% 282.1 22.5% 352.7 115.9 206.1 64.0% 65.4 20.3% 67.3 20.9% 0.0 73.4 22.8% 8.5 81.9 25.4% 11.9 14.5% 70.0 21.8% 315.0 2Q08E 338.0 5.7% 5.0% 120.7 217.3 64.3% 64.9 19.2% 66.9 19.8% 0.0 85.5 25.3% 7.5 93.0 27.5% 13.5 14.5% 79.5 23.5% 310.0 3Q08E 337.0 6.7% -0.3% 119.6 217.4 64.5% 64.7 19.2% 67.4 20.0% 0.0 85.3 25.3% 7.0 92.3 27.4% 13.4 14.5% 78.9 23.4% 307.0 $0.26 30.0% 0.0% $0.29 31.8% 0.0% 4Q08E 341.0 8.6% 1.2% 121.1 219.9 64.5% 64.8 19.0% 68.2 20.0% 0.0 87.0 25.5% 7.0 94.0 27.6% 13.6 14.5% 80.3 23.6% 307.0 $0.26 52.9% 0.0% $0.29 45.0% 0.0% 2008E 1338.0 6.7%
+
+427.9 857.6 66.7% 307.8 23.9% 248.7 19.3%
+
+477.3 860.7 64.3% 259.8 19.4% 269.8 20.2% 0.0 331.1 24.7% 30.0 361.1 27.0% 52.4 14.5% 308.8 23.1% 309.8 $1.00 25.0% $1.12 24.4%
+
+56.6 19.3% 12.4 69.1 23.6% 10.4 15.0% 58.7 20.0% 367.0
+
+80.2 24.0% 10.8 91.0 27.2% 13.6 15.0% 77.3 23.1% 367.1
+
+86.3 25.3% 16.5 102.8 30.1% 15.4 15.0% 87.4 25.6% 367.3
+
+78.0 24.6% 18.8 96.9 30.5% (3.0) -3.1% 99.9 31.5% 368.4
+
+301.2 23.4% 58.6 359.7 28.0% 36.4 10.1% 323.3 25.1% 367.5
+
+GAAP EPS $0.16 $0.21 $0.24 $0.27 $0.88 $0.21 $0.22 $0.20 $0.17 $0.80 $0.22 $0.26 % Change Y/Y 33.3% 61.5% 48.7% 91.7% 60.0% 31.3% 4.8% -16.7% -37.3% -9.1% 4.8% 18.2% % Change Q/Q 13.2% 31.3% 14.3% 12.9% -22.5% 4.8% -9.1% -15.0% 29.4% 18.2% Pre Option EPS $0.20 $0.25 $0.27 $0.30 $1.02 $0.23 $0.25 $0.22 $0.20 $0.90 $0.25 $0.29 % Change Y/Y 17.6% 38.9% 28.6% 57.9% 36.0% 15.0% 0.0% -18.5% -33.3% -11.8% 8.7% 16.0% % Change Q/Q 5.3% 25.0% 8.0% 11.1% -23.3% 8.7% -12.0% -9.1% 25.0% 16.0% Notes: * 4Q06 reported EPS includes a one-time benefit of $0.05 per share for the reinstatement of R&D tax credit and the favorable impact of a tax audit settlement.
+
+Source: Company reports and Bear, Stearns & Co. Inc. estimates.
+
+BEAR, STEARNS & CO. INC. 383 MADISON AVENUE NEW YORK, NY 10179 (212) 272-2000 WWW.BEARSTEARNS.COM
+
+2
+
+Important Disclosures The costs and expenses of Equity Research, including the compensation of the analyst(s) that prepared this report, are paid out of the Firm's total revenues, a portion of which is generated through investment banking activities. This report has been prepared in accordance with the Firm's conflict management policies. Bear Stearns is unconditionally committed to the integrity, objectivity, and independence of its research. Bear Stearns research analysts and personnel report to the Director of Research and are not subject to the direct or indirect supervision or control of any other Firm department (or members of such department). This publication and any recommendation contained herein speak only as of the date hereof and are subject to change without notice. Bear Stearns and its affiliated companies and employees shall have no obligation to update or amend any information or opinion contained herein, and the frequency of subsequent publications, if any, remain in the discretion of the author and the Firm. Analyst Certification The research analyst(s) primarily responsible for the preparation of this research report hereby certify that all of the views expressed in this research report accurately reflect their personal views about any and all of the subject securities or issuers. The research analyst(s) also certify that no part of their compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed in this research report. Gurinder Kalra Companies Analyzed * Altera (ALTR) - $19.14 (as of December 18, 2007 16:00 ET) - Peer Perform Altera (ALTR): Bear, Stearns & Co. Inc. is a market maker in this company's equity securities. Altera (ALTR): The subject company is or during the past twelve (12) months has been a non-investment banking client (securities related services) of Bear Stearns & Co. Inc. Altera (ALTR): Within the past twelve (12) months, Bear, Stearns & Co. Inc. or one of its affiliates has received noninvestment banking compensation from this company.
+
+Bear, Stearns & Co. Inc. Equity Research Rating System: Ratings for Stocks (vs. analyst coverage universe): Outperform (O) - Stock is projected to outperform analyst's industry coverage universe over the next 12 months. Peer Perform (P) - Stock is projected to perform approximately in line with analyst's industry coverage universe over the next 12 months. Underperform (U) - Stock is projected to underperform analyst's industry coverage universe over the next 12 months. Ratings for Sectors (vs. regional broader market index): Market Overweight (MO) - Expect the industry to perform better than the primary market index for the region (S&P 500 in the US) over the next 12 months. Market Weight (MW) - Expect the industry to perform approximately in line with the primary market index for the region (S&P 500 in the US) over the next 12 months.
+BEAR, STEARNS & CO. INC. 383 MADISON AVENUE NEW YORK, NY 10179 (212) 272-2000 WWW.BEARSTEARNS.COM 3
+
+Market Underweight (MU) - Expect the industry to underperform the primary market index for the region (S&P 500 in the US) over the next 12 months. Bear, Stearns & Co. Inc. Ratings Distribution as of September 30, 2007: Percentage of BSC universe with this rating / Percentage of these companies which were BSC investment banking clients in the last 12 months. Outperform (Buy): Underperform (Sell): 44.5 / 15.6 7.1 / 6.5 Peer Perform (Neutral): 48.4 / 9.3
+
+Securities covered by the author(s) of this report include: Gurinder Kalra (Semiconductors): Altera, Analog Devices, Intel Corporation, Lattice Semiconductor, Linear Technology, Micron Technology, National Semiconductor, Samsung Electronics, Texas Instruments, Xilinx, Maxim Integrated Products, Nvidia Corp, SanDisk Corp, Advanced Micro Devices, Inc.
+
+BEAR, STEARNS & CO. INC. 383 MADISON AVENUE NEW YORK, NY 10179 (212) 272-2000 WWW.BEARSTEARNS.COM
+
+4
+
+Disclaimers OTHER DISCLAIMERS This report has been prepared by Bear, Stearns & Co. Inc., Bear, Stearns International Limited or Bear Stearns Asia Limited (together with their affiliates, "Bear Stearns"), as indicated on the cover page hereof. Responsibility for the content of this report has been accepted by Bear, Stearns & Co. Inc. for distribution in the United States. If you are a recipient of this publication in the United States, orders in any securities referred to herein should be placed with Bear, Stearns & Co. Inc. This report has been approved for publication in the United Kingdom by Bear, Stearns International Limited, which is authorized and regulated by the United Kingdom Financial Services Authority. U.K. retail clients should contact their Bear, Stearns International Limited representatives about the investments concerned. This report is distributed in Hong Kong by Bear Stearns Asia Limited, which is regulated by the Securities and Futures Commission of Hong Kong. Recipients of this report from Bear Stearns Asia Limited should contact representatives of the latter in relation to any matter referred to herein. Additional information is available upon request. Bear Stearns and its employees, officers, and directors deal as principal in transactions involving the securities referred to herein (or options or other instruments related thereto), including in transactions which may be contrary to any recommendations contained herein. Bear Stearns and its employees may also have engaged in transactions with issuers identified herein. Bear Stearns is affiliated with a specialist that may make a market in the securities of the issuers referred to in this document, and such specialist may have a position (long or short) and may be on the opposite side of public orders in such securities. This publication does not constitute an offer or solicitation of any transaction in any securities referred to herein. Any recommendation contained herein may not be suitable for all investors. Although the information contained in the subject report (not including disclosures contained herein) has been obtained from sources we believe to be reliable, the accuracy and completeness of such information and the opinions expressed herein cannot be guaranteed. This publication and any recommendation contained herein speak only as of the date hereof and are subject to change without notice. Bear Stearns and its affiliated companies and employees shall have no obligation to update or amend any information or opinion contained herein. This publication is being furnished to you for informational purposes only and on the condition that it will not form the sole basis for any investment decision. Each investor must make their own determination of the appropriateness of an investment in any securities referred to herein based on the tax, or other considerations applicable to such investor and its own investment strategy. By virtue of this publication, neither Bear Stearns nor any of its employees, nor any data provider or any of its employees shall be responsible for any investment decision. This report may not be reproduced, distributed, or published without the prior consent of Bear Stearns. ©2007. All rights reserved by Bear Stearns. Bear Stearns and its logo are registered trademarks of The Bear Stearns Companies Inc. This report may discuss numerous securities, some of which may not be qualified for sale in certain states and may therefore not be offered to investors in such states. This document should not be construed as providing investment services. Investing in non-U.S. securities including ADRs involves significant risks such as fluctuation of exchange rates that may have adverse effects on the value or price of income derived from the security. Securities of some foreign companies may be less liquid and prices more volatile than securities of U.S. companies. Securities of non-U.S. issuers may not be registered with or subject to Securities and Exchange Commission reporting requirements; therefore, information regarding such issuers may be limited. NOTE TO ACCOUNT EXECUTIVES: For securities that are not listed on the NYSE, AMEX, or Nasdaq National Market System, check the Compliance page of the Bear Stearns Intranet site for State Blue Sky data prior to soliciting or accepting orders from clients. CIR 230 Disclaimer Bear Stearns does not provide tax, legal or accounting advice. You should consult your own tax, legal and accounting advisors before engaging in any transaction. In order for Bear Stearns to comply with Internal Revenue Service Circular 230 (if applicable), you are notified that any discussion of U.S. federal tax issues contained or referred to herein is not intended or written to be used, and cannot be used, for the purpose of: (A) avoiding penalties that may be imposed under the Internal Revenue Code; nor (B) promoting, marketing or recommending to another party any transaction or matter discussed herein.
+
+BEAR, STEARNS & CO. INC. 383 MADISON AVENUE NEW YORK, NY 10179 (212) 272-2000 WWW.BEARSTEARNS.COM
+
+5
+
+
